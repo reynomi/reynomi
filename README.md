@@ -1,4 +1,5 @@
 ## Hi there 👋
+This is a personal exploration account.  I only take on pet projects with personal benefits.
 
 <!--
 **reynomi/reynomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
